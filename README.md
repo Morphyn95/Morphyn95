@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Morphyn</h1>
-<h3 align="center">Eager to learn and a very curious about coding</h3>
+<h3 align="center">Eager to learn and very curious about coding</h3>
 
 - 🌱 I’m currently learning **Javascript**
 
